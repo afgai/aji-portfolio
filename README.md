@@ -3,7 +3,9 @@
 
 Hello, I'm Aji Fatou, an aspiring Datat Analyst with expertise in data management, analysis and reporting, database design, and data modelling.
 
-I have expertise in :
+Welcome to my portfolio, where I showcase some of of my [projects!](https://github.com/afgai/Covid-19-Database-System)
+
+Through my projects, I demonstrate my expertise in :
 <ul>
      <li> Querying data using SQL    </li>
      <li> Generate reports and perform ad-hoc data analysis using SQL </li> 
@@ -11,5 +13,13 @@ I have expertise in :
      <li> Data analysis and reporting using Google Sheets and Excel </li>
 </ul>
 
-Welcome to my portfolio and have a look at some of of my [projects!](https://github.com/afgai/Covid-19-Database-System)
+## Tools:
+
+<ul>
+     <li> Programming: R, SQL </li>
+     <li> Database: MySQL, OracleSQL </li>
+     <li> Visualization: Tableu </li>
+</ul>
+
+### Don't Forget to Connect with Me on [Linkedn!](https://www.linkedin.com/in/ajifg/)
 
