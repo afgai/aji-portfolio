@@ -3,7 +3,7 @@
 
 Hello, I'm Aji Fatou, an aspiring Datat Analyst with expertise in data management, analysis and reporting, database design, and data modelling.
 
-Welcome to my portfolio, where I showcase some of of my [projects!](https://github.com/afgai/Covid-19-Database-System)
+Welcome to my portfolio, where I showcase some of of my [projects!][(https://github.com/afgai/Covid-19-Database-Syste](https://github.com/afgai/Porfolio-Guide-))
 
 Through my projects, I demonstrate my expertise in :
 <ul>
