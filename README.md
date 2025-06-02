@@ -2,7 +2,7 @@
 
 [Projects!](https://github.com/afgai/Porfolio-Guide-)
 
-Through my projects, I demonstrate my expertise in :
+Expertise in :
 <ul>
      <li> Querying data using SQL    </li>
      <li> Generate reports and perform ad-hoc data analysis using SQL </li> 
